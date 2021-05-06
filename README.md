@@ -1,8 +1,3 @@
-##Hi!
-
-<!--
-**SolarOfficial/solarofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 What's up everyone, My name is Auryn. I'm just your neighborhood discord.js developer! I am the Founder of HCReaper an upcoming Minecraft server!
 
 I also have my own website! https://solardev.xyz
