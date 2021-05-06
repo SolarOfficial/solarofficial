@@ -1,3 +1,8 @@
+╔═╗┌─┐┬  ┌─┐┬─┐
+╚═╗│ ││  ├─┤├┬┘
+╚═╝└─┘┴─┘┴ ┴┴└─
+
+
 What's up everyone, My name is Auryn. I'm just your neighborhood discord.js developer! I am the Founder of HCReaper an upcoming Minecraft server!
 
 I also have my own website! https://solardev.xyz
