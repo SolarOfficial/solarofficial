@@ -14,7 +14,7 @@
 
 
 
-Hi, I am just your normal python / discord.js developer.
+Hello, I am just your normal python / discord.js developer.
 
 This is my current website: https://solardev.xyz
 
