@@ -17,6 +17,10 @@ My main project at the moment is SolarDevelopment!
 #### Learning 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-e97f00?style=for-the-badge&logo=Java&logoColor=white"/>
 
+### Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=Ssmidge&show_icons=true&hide_border=true&theme=onedark) <br/>
+
 Here are some extra things about me:
 
 
