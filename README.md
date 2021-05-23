@@ -27,7 +27,7 @@ My main project at the moment is SolarDevelopment!
 Discord: solar.#9999
 
 #### Learning 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-e97f00?style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-e97f00?style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 
 ### Stats
 
