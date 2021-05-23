@@ -2,15 +2,16 @@
 
 
 
-What's up everyone, My name is Solar. I'm just your friendly neighborhood discord.js developer! I am the Founder of HCReaper an upcoming Minecraft server!
+Hi, I am just a boring python / discord.js developer.
 
-I also have my own website! https://solardev.xyz
+Here is my website :) https://solardev.xyz
 
-JavaScript is not all I know, I actually have started a bit of Python! I am still very new to coding so I am glad to be apart of GitHub now! I have always been into computers and stuff since I was like 6 years old!
+There is a secret page on my website lets see if u find it :))
 
-I also have a dog named Vega and she is AWESOME! Here's a picture: https://solardev.xyz/secret.html
+My main project at the moment is... NOTHING, I am bored lol.
 
-My main project at the moment is HCReaper (My minecraft server 😎)
+#### Learning 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-e97f00?style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-ff5656?style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 
 Here are some things about me:
 
