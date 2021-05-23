@@ -29,9 +29,9 @@ Discord: solar.#9999
 #### Learning 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-e97f00?style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JS-3776AB?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Batch-3776AB?style=for-the-badge&logo=Flaskfile&logoColor=white"/>
 
-##Languages
+### Languages
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Flairings&layout=compact&hide_border=true&theme=dark
+![usedlangs]https://github-readme-stats.vercel.app/api/top-langs/?username=Flairings&layout=compact&hide_border=true&theme=dark <br/>
 
 ### Stats
 
