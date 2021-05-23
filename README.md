@@ -19,7 +19,7 @@ My main project at the moment is SolarDevelopment!
 
 ### Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=Ssmidge&show_icons=true&hide_border=true&theme=onedark) <br/>
+![stats](https://github-readme-stats.vercel.app/api?username=SolarOfficial&show_icons=true&hide_border=true&theme=onedark) <br/>
 
 Here are some extra things about me:
 
