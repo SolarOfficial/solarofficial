@@ -31,7 +31,7 @@ Discord: solar.#9999
 
 ### Languages
 
-![usedlangs]https://github-readme-stats.vercel.app/api/top-langs/?username=Flairings&layout=compact&hide_border=true&theme=dark <br/>
+<img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flairings&layout=compact&hide_border=true&theme=dark" />
 
 ### Stats
 
