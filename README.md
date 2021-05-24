@@ -20,7 +20,7 @@ This is my current website: https://solardev.xyz
 
 There is a secret page on my website lets see if u find it :))
 
-My main project at the moment is AstralDevelopment!
+My main project at the moment is AstralDevelopment! (aka. gServices)
 
 ### Contact
 
@@ -40,6 +40,6 @@ Discord: solar.#9999
 Here are some extra things about me:
 
 
-- 🔭 I’m currently working on: AstralDevelopment!
+- 🔭 I’m currently working on: AstralDevelopment (aka. gServices)!
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: My favorite animal's are dogs!
