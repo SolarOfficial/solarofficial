@@ -39,7 +39,3 @@ Discord: solar.#9999
 
 Here are some extra things about me:
 
-
-- 🔭 I’m currently working on: AstralDevelopment (aka. gServices)!
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: My favorite animal's are dogs!
