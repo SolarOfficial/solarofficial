@@ -20,7 +20,7 @@ This is my current website: https://solardev.xyz
 
 There is a secret page on my website lets see if u find it :))
 
-My main project at the moment is AstralDevelopment! (aka. gServices)
+My main project at the moment is **a secret**
 
 ### Contact
 
@@ -36,6 +36,4 @@ Discord: solar.#9999
 ### Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=SolarOfficial&show_icons=true&hide_border=true&theme=onedark) <br/>
-
-Here are some extra things about me:
 
