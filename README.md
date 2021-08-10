@@ -3,6 +3,9 @@
 <p align="center">You can contact me using my discord: Zentuh#3070</p>
 -->
 
+## Solar's Github 🪐
+Hellom My name is Solar (or Zentuh) and welcome to my GitHub page! 👋
+
 <h2 align="center">Learning</h2>
 <p align="center">I am currently learning:</p>
 
@@ -21,3 +24,5 @@
 <p align="center">
 <img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolarOfficial&layout=compact&hide_border=true&theme=dark" />
 </p>
+
+![GitHub metrics](https://metrics.lecoq.io/solarofficial?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FConnecticut)
