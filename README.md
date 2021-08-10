@@ -25,4 +25,5 @@ Hellom My name is Solar (or Zentuh) and welcome to my GitHub page! 👋
 <img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolarOfficial&layout=compact&hide_border=true&theme=dark" />
 </p>
 
+<p align="center">
 ![GitHub metrics](https://metrics.lecoq.io/solarofficial?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FConnecticut)
