@@ -1,39 +1,23 @@
+<!--- 
+<h2 align="center">Contact</h2>
+<p align="center">You can contact me using my discord: Zentuh#3070</p>
+-->
 
-```
+<h2 align="center">Learning</h2>
+<p align="center">I am currently learning:</p>
 
-███████╗ ██████╗ ██╗      █████╗ ██████╗ 
-██╔════╝██╔═══██╗██║     ██╔══██╗██╔══██╗
-███████╗██║   ██║██║     ███████║██████╔╝
-╚════██║██║   ██║██║     ██╔══██║██╔══██╗
-███████║╚██████╔╝███████╗██║  ██║██║  ██║
-╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
-                                                                                                
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black" height='42px'/>
+  <img src="https://img.shields.io/badge/Java-e97f00?style=for-the-badge&logo=Java&logoColor=white" height='42px'/>
+  <img src="https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=orange" height='42px'>
+</p>
 
-### ◔◡◔ Hello! I am Solar! :D
+<h2 align="center">Statistics</h2>
+<p align="center">Github Stats</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Flairings&show_icons=true&hide_border=true&theme=dark" />
+</p>
 
-
-
-Hello, I am just your normal python / discord.js developer.
-
-This is my current website: https://solardev.xyz
-
-There is a secret page on my website lets see if u find it :))
-
-My main project at the moment is **a secret**
-
-### Contact
-
-Discord: solar.#9999
-
-#### Learning 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-e97f00?style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JS-3776AB?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-
-### Languages
-
-<img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolarOfficial&layout=compact&hide_border=true&theme=onedark" />
-
-### Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=SolarOfficial&show_icons=true&hide_border=true&theme=onedark) <br/>
-
+<p align="center">
+<img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flairings&layout=compact&hide_border=true&theme=dark" />
+</p>
