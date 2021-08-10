@@ -15,9 +15,9 @@
 <h2 align="center">Statistics</h2>
 <p align="center">Github Stats</p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Flairings&show_icons=true&hide_border=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=SolarOfficial&show_icons=true&hide_border=true&theme=dark" />
 </p>
 
 <p align="center">
-<img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flairings&layout=compact&hide_border=true&theme=dark" />
+<img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolarOfficial&layout=compact&hide_border=true&theme=dark" />
 </p>
