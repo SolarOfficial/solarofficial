@@ -16,7 +16,7 @@ Hellom My name is Solar (or Zentuh) and welcome to my GitHub page! 👋
 </p>
 
 <h2 align="center">Statistics</h2>
-<p align="center">Github Stats</p>
+<p align="center">GitHub Stats</p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SolarOfficial&show_icons=true&hide_border=true&theme=dark" />
 </p>
