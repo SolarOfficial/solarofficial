@@ -4,7 +4,7 @@
 -->
 
 ## Solar's Github 🪐
-Hellom My name is Solar (or Zentuh) and welcome to my GitHub page! 👋
+Hello My name is Solar (or Zentuh) and welcome to my GitHub page! 👋
 
 <h2 align="center">Learning</h2>
 <p align="center">I am currently learning:</p>
