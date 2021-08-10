@@ -26,5 +26,5 @@ Hellom My name is Solar (or Zentuh) and welcome to my GitHub page! 👋
 </p>
 
 <p align="center">
-<img style="float: right;" alt="GitHub Info" src="https://metrics.lecoq.io/therealdamt?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FConnecticut" />
+<img style="float: right;" alt="GitHub Info" src="https://metrics.lecoq.io/solarofficial?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FConnecticut" />
 </p>
