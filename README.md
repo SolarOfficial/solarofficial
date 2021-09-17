@@ -5,6 +5,7 @@
 
 ## Solar's Github 🪐
 Hello My name is Solar (or Zentuh) and welcome to my GitHub page! 👋
+Something New Coming Soon... 👀
 
 <h2 align="center">Learning</h2>
 <p align="center">I am currently learning:</p>
