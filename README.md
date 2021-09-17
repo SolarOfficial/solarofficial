@@ -5,7 +5,6 @@
 
 ## Solar's Github 🪐
 Hello My name is Solar (or Zentuh) and welcome to my GitHub page! 👋
-Something New Coming Soon... 👀
 
 <h2 align="center">Learning</h2>
 <p align="center">I am currently learning:</p>
@@ -29,3 +28,5 @@ Something New Coming Soon... 👀
 <p align="center">
 <img style="float: right;" alt="Overall GitHub Info" src="https://metrics.lecoq.io/solarofficial?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FConnecticut" />
 </p>
+
+## Something New Coming Soon... 👀
