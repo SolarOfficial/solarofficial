@@ -15,16 +15,6 @@ Hello My name is Solar (or Zentuh) and welcome to my GitHub page! 👋
   <img src="https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=orange" height='42px'>
 </p>
 
-<h2 align="center">Statistics</h2>
-<p align="center">GitHub Stats</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SolarOfficial&show_icons=true&hide_border=true&theme=dark" />
-</p>
-
-<p align="center">
-<img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolarOfficial&layout=compact&hide_border=true&theme=dark" />
-</p>
-
 <p align="center">
 <img style="float: right;" alt="Overall GitHub Info" src="https://metrics.lecoq.io/solarofficial?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FConnecticut" />
 </p>
